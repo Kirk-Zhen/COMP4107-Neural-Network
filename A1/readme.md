@@ -5,11 +5,11 @@ Name: Kirk Zhen
 Student ID: 101087006  
 E-mail: zijianzhen@cmail.carleton.ca  
 
-###Notice:
+### Notice:
 Befor you execute `Question5.py` and `Question6.py`, please
 make sure that the file path in the code is correct.
 
-###Library:
+### Library:
 |||
 |:---|:---|
 |numpy|1.17.4
