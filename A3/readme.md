@@ -32,7 +32,7 @@ the submission.
 * `q2.py` files are python program for Question 2
 * `q3.py` files are python program for Question 3
 * `q4.py` files are python program for Question 4
-* `COMP4107Assignment#3.pdf` is a paper solution for this assignment
+* `report.pdf` is a paper solution for this assignment
 * Files in `q1` folder contains the `.csv` data and `.png` graphs for Question 1
 * Files in `q2` folder contains the `.csv` data and `.png` graphs for Question 2
 
