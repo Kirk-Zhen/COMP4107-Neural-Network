@@ -21,7 +21,7 @@ make sure that the file path in the code is correct.
 
 ### Files:
 * `.py` files are python program for Question 1 to Question 6
-* `COMP4107Assignment#1.pdf` is a paper solution for this assignment
+* `report.pdf` is a paper solution for this assignment
 * Files in `MNIST` folder contains the raw data for Question 5
 * Files in `MovieLens` folder contains the raw data for Question 6
 * Files in `graph` folder contains the output graph  for Question 5 and Question 6
