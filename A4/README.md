@@ -1,4 +1,5 @@
-# COMP 4107 Assignment 4 Visalization of Convolutional Layers using CIFAR-10 dataset
+# COMP 4107 Assignment 4 
+# Visalization of Convolutional Layers using CIFAR-10 dataset
 -----------
 
 Name: Zijian Zhen (Kirk)
