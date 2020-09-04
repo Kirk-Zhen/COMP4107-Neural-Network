@@ -27,7 +27,7 @@ make sure that the file path in the code is correct.
 * `q1_b.py` files are python program for Question 1 part(B)
 * `q1_c.py` files are python program for Question 1 part(C)
 * `q2.py` files are python program for Question 2
-* `COMP4107Assignment#2.pdf` is a paper solution for this assignment
+* `report.pdf` is a report for this assignment
 * Files in `Q1B` folder contains the `.csv` for Question 1 part(B)
 * Files in `Q2` folder contains the raw data for Question 2
 
