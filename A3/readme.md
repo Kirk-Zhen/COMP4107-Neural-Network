@@ -1,4 +1,5 @@
 # COMP 4107 Assignment 3
+# Hebbian Rule and Storkey Rule, RBF Network, K-Mean, Self Organizing Map, PCA
 -----------
 
 Name: Kirk Zhen  
