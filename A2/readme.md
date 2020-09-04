@@ -1,4 +1,5 @@
 # COMP 4107 Assignment 2
+# Performance of Different Optimizers, Early Stop, Visalize Contour
 -----------
 
 Name: Kirk Zhen  
