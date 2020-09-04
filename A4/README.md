@@ -32,6 +32,6 @@ to choose the model you want to test.
 
 ### Files:
 * `q1.py` files are python program for this assignment
-* `COMP4107Assignment#4.pdf` is a paper report for this assignment
+* `report.pdf` is a paper report for this assignment
 * Files in `csv` folder contains the `.csv` data for plotting the graphs
 * Files in `plot` folder contains the `.jpg` image in the report
